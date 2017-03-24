@@ -1,8 +1,8 @@
-# Description
-#   A hubot script that does the things
-#
-# Author:
-#   Nikolay Redko <nredko@nredko.com>
+// Description
+//   A hubot script that does the things
+//
+// Author:
+//   Nikolay Redko <nredko@nredko.com>
 
 module.exports = function(robot) {
   robot.respond(/hello/, function(res) {
